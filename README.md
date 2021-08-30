@@ -1,0 +1,2 @@
+# awesome-everquest
+awesome-everquest
