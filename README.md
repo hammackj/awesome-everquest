@@ -2,7 +2,7 @@
 
 A curated list of Everquest sites and YouTubers/Twitchers
 
-If you want to contribute, please read submit a issue or PR with the change.
+If you want to contribute, please submit a issue or PR with the change.
 
 ## Websites
 * [Everquest](https://everquest.com/) - Main Everquest site
