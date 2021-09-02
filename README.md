@@ -26,4 +26,7 @@ If you want to contribute, please submit a issue or PR with the change.
 * [Ion Blaze Gaming](https://www.youtube.com/c/IonBlazeGaming/) - Bard
 * [Everquest Chronicles](https://www.youtube.com/c/FcsevenXIII) - Necro
 * [EnderSword](https://www.youtube.com/user/EnderSword) - Necro
+* [Flatts](https://www.youtube.com/c/Flatts) - Monk
+* [Michael's shenanigans ](https://www.youtube.com/channel/UCOd8-vBSXyHYqj-YN0eVPLQ/) - Barb Shaman / Lore / Music
+* [LoreWhore Galore](https://www.youtube.com/channel/UCQwwg__ZpD-zocyqnJYwCHg) - Lore
 * [hammackj](https://www.youtube.com/c/hammackj) - Necro, EQEMU, Multiboxing (SHD/SHM/BST/BRD/MAG/DRU)
