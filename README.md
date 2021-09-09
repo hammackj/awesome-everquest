@@ -29,4 +29,7 @@ If you want to contribute, please submit a issue or PR with the change.
 * [Flatts](https://www.youtube.com/c/Flatts) - Monk
 * [Michael's shenanigans ](https://www.youtube.com/channel/UCOd8-vBSXyHYqj-YN0eVPLQ/) - Barb Shaman / Lore / Music
 * [LoreWhore Galore](https://www.youtube.com/channel/UCQwwg__ZpD-zocyqnJYwCHg) - Lore
+* [PerryLovewhistle](https://www.youtube.com/c/PerryLovewhistle/) - P99 Streams and playthroughs
 * [hammackj](https://www.youtube.com/c/hammackj) - Necro, EQEMU, Multiboxing (SHD/SHM/BST/BRD/MAG/DRU)
+
+
