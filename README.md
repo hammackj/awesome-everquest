@@ -15,6 +15,7 @@ If you want to contribute, please submit a issue or PR with the change.
 * [EQTraders](http://eqtraders.com)
 * [EQProgression](https://www.eqprogression.com/)
 * [EQItems](https://eqitems.com/)
+* [EQFreelance](http://eqfreelance.net/)
 
 ## YouTubers
 * [Twelvestrings](https://www.youtube.com/channel/UC_dOTzt7DwC6tiWfgRriRpQ) - Shaman/Necro/Druid/Rogue/Warrior
